@@ -1,0 +1,1 @@
+My personal VSCode extension pack, designed for easy installation of plugins.

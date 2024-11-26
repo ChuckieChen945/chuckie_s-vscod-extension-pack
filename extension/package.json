@@ -1,0 +1,54 @@
+{
+  "name": "chuckie_s-vscod-extension-pack",
+  "displayName": "Chuckie's",
+  "description": "Chuckie's Personal VSCode Extension Pack",
+  "version": "0.0.1",
+  "publisher": "chuckie",
+  "author": {
+    "name": "Chuckie",
+    "email": "chuckie_chen945@qq.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChuckieChen945/chuckie_s-vscod-extension-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/ChuckieChen945/chuckie_s-vscod-extension-pack/issues"
+  },
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "wayou.vscode-todo-highlight",
+    "zhuangtongfa.material-theme",
+    "shardulm94.trailing-spaces",
+    "vscodevim.vim",
+    "buuug7.gbk2utf8",
+    "pkief.material-icon-theme",
+    "vscode.powershell",
+    "intellsmi.comment-translate",
+    "formulahendry.code-runner",
+    "argiolasriccardo90.regions-with-colors",
+    "SantaCodes.santacodes-region-viewer",
+    "xlthu.pangu-markdown",
+    "unbug.codelf",
+    "mlewand.select-part-of-word",
+    "alefragnani.project-manager",
+    "formulahendry.extension-leaderboard",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "james-yu.latex-workshop",
+    "spmeesseman.vscode-taskexplorer",
+    "alefragnani.bookmarks",
+    "yang-yue.switch-hosts",
+    "tommasov.hosts",
+    "yzhang.markdown-all-in-one",
+    "donjayamanne.git-extension-pack",
+    "mechatroner.rainbow-csv"
+  ]
+}
